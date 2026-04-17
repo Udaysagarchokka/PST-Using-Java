@@ -2,7 +2,7 @@ import java.util.HashSet;
 import java.util.Set;
 import java.util.Scanner;
 
-class Solution {
+class Solutiow {
 
     public static boolean containsNearbyDuplicate(int[] nums, int k) {
 
